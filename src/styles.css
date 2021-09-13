@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App button {
+  margin: 1em;
+  padding: 1em;
+  color: green;
+  font-weight: bolder;
+}
+
+.detail {
+  align-items: center;
+  box-sizing: border-box;
+  background: red;
+  margin-top: 2em;
+  padding: 2em;
+  border-radius: 10px;
+}
